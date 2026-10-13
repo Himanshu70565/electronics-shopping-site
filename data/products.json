@@ -1,0 +1,134 @@
+[
+  {
+    "id": "laptop-001",
+    "name": "Aster 14 Pro Laptop",
+    "category": "Laptops",
+    "brand": "Aster",
+    "price": 1299,
+    "description": "A dependable 14-inch laptop for study, work, and everyday creative projects.",
+    "image": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=900&q=80",
+    "specifications": { "Processor": "Intel Core i5", "Memory": "16 GB", "Storage": "512 GB SSD", "Screen": "14-inch Full HD" },
+    "availability": "In stock"
+  },
+  {
+    "id": "laptop-002",
+    "name": "Nova 16 Creator Laptop",
+    "category": "Laptops",
+    "brand": "Nova",
+    "price": 1899,
+    "description": "A spacious, high-performance laptop designed for editing, coding, and demanding workflows.",
+    "image": "https://images.unsplash.com/photo-1517336714739-489689fd1ca8?auto=format&fit=crop&w=900&q=80",
+    "specifications": { "Processor": "AMD Ryzen 7", "Memory": "32 GB", "Storage": "1 TB SSD", "Screen": "16-inch QHD" },
+    "availability": "In stock"
+  },
+  {
+    "id": "headphones-001",
+    "name": "Echo Wireless Headphones",
+    "category": "Headphones",
+    "brand": "Echo",
+    "price": 199,
+    "description": "Comfortable Bluetooth headphones with active noise cancellation for focused listening.",
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=900&q=80",
+    "specifications": { "Connectivity": "Bluetooth 5.3", "Noise cancellation": "Yes", "Battery life": "30 hours", "Compatibility": "Bluetooth devices" },
+    "availability": "In stock"
+  },
+  {
+    "id": "headphones-002",
+    "name": "Pulse Studio Headphones",
+    "category": "Headphones",
+    "brand": "Pulse",
+    "price": 149,
+    "description": "Lightweight over-ear headphones with clear audio and a foldable travel design.",
+    "image": "https://images.unsplash.com/photo-1546435770-a3e426bf472b?auto=format&fit=crop&w=900&q=80",
+    "specifications": { "Connectivity": "Bluetooth 5.2", "Noise cancellation": "No", "Battery life": "24 hours", "Compatibility": "Bluetooth devices" },
+    "availability": "Low stock"
+  },
+  {
+    "id": "keyboard-001",
+    "name": "KeyPro Wireless Keyboard",
+    "category": "Keyboards",
+    "brand": "KeyPro",
+    "price": 129,
+    "description": "A full-size wireless keyboard with quiet keys and reliable Bluetooth connectivity.",
+    "image": "https://images.unsplash.com/photo-1587829741301-dc798b83add3?auto=format&fit=crop&w=900&q=80",
+    "specifications": { "Connectivity": "Bluetooth", "Battery life": "40 hours", "Layout": "Full-size", "Compatibility": "Windows, macOS, iPadOS" },
+    "availability": "In stock"
+  },
+  {
+    "id": "keyboard-002",
+    "name": "Forge Mechanical Keyboard",
+    "category": "Keyboards",
+    "brand": "Forge",
+    "price": 159,
+    "description": "A compact mechanical keyboard with tactile switches and customizable backlighting.",
+    "image": "https://images.unsplash.com/photo-1595225476474-87563907a212?auto=format&fit=crop&w=900&q=80",
+    "specifications": { "Connectivity": "USB-C", "Battery life": "Wired", "Layout": "Tenkeyless", "Compatibility": "Windows, macOS" },
+    "availability": "In stock"
+  },
+  {
+    "id": "mouse-001",
+    "name": "Glide Bluetooth Mouse",
+    "category": "Computer Mice",
+    "brand": "Glide",
+    "price": 59,
+    "description": "A quiet, ergonomic mouse that switches easily between two Bluetooth devices.",
+    "image": "https://images.unsplash.com/photo-1527814050087-3793815479db?auto=format&fit=crop&w=900&q=80",
+    "specifications": { "Connectivity": "Bluetooth", "Buttons": "6", "DPI": "1600", "Compatibility": "Windows, macOS, ChromeOS" },
+    "availability": "In stock"
+  },
+  {
+    "id": "mouse-002",
+    "name": "Vector Precision Mouse",
+    "category": "Computer Mice",
+    "brand": "Vector",
+    "price": 89,
+    "description": "A precise wired mouse with programmable buttons for productive desktop work.",
+    "image": "https://images.unsplash.com/photo-1615663245857-ac93bb7c39e7?auto=format&fit=crop&w=900&q=80",
+    "specifications": { "Connectivity": "USB", "Buttons": "8", "DPI": "3200", "Compatibility": "Windows, macOS" },
+    "availability": "In stock"
+  },
+  {
+    "id": "monitor-001",
+    "name": "Vista 27 Monitor",
+    "category": "Monitors",
+    "brand": "Vista",
+    "price": 349,
+    "description": "A crisp 27-inch QHD monitor with an adjustable stand for a comfortable workspace.",
+    "image": "https://images.unsplash.com/photo-1527443224154-c4a3942d3acf?auto=format&fit=crop&w=900&q=80",
+    "specifications": { "Screen": "27-inch QHD", "Refresh rate": "75 Hz", "Panel": "IPS", "Ports": "HDMI, DisplayPort" },
+    "availability": "In stock"
+  },
+  {
+    "id": "monitor-002",
+    "name": "Arc 24 Monitor",
+    "category": "Monitors",
+    "brand": "Arc",
+    "price": 229,
+    "description": "A space-saving 24-inch Full HD monitor for home offices and study desks.",
+    "image": "https://images.unsplash.com/photo-1551645120-d70bfe84c826?auto=format&fit=crop&w=900&q=80",
+    "specifications": { "Screen": "24-inch Full HD", "Refresh rate": "100 Hz", "Panel": "VA", "Ports": "HDMI, VGA" },
+    "availability": "Low stock"
+  },
+  {
+    "id": "webcam-001",
+    "name": "Focus HD Webcam",
+    "category": "Webcams",
+    "brand": "Focus",
+    "price": 79,
+    "description": "A plug-and-play 1080p webcam with a privacy shutter for meetings and classes.",
+    "image": "https://images.unsplash.com/photo-1587825140708-dfaf72ae4b04?auto=format&fit=crop&w=900&q=80",
+    "specifications": { "Resolution": "1080p", "Microphone": "Dual noise reduction", "Connection": "USB-A", "Compatibility": "Windows, macOS, ChromeOS" },
+    "availability": "In stock"
+  },
+  {
+    "id": "hub-001",
+    "name": "Link 7-Port USB Hub",
+    "category": "USB Hubs & Accessories",
+    "brand": "Link",
+    "price": 69,
+    "description": "A compact powered USB hub that expands one laptop port into seven useful connections.",
+    "image": "https://images.unsplash.com/photo-1625842268584-8f3296236761?auto=format&fit=crop&w=900&q=80",
+    "specifications": { "Ports": "4 x USB-A, 2 x USB-C, HDMI", "Connection": "USB-C", "Power": "External power optional", "Compatibility": "USB-C devices" },
+    "availability": "In stock"
+  }
+]

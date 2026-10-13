@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 600" role="img" aria-labelledby="title">
+  <title>TechStore product placeholder</title>
+  <rect width="900" height="600" fill="#e2e8f0"/>
+  <rect x="300" y="170" width="300" height="210" rx="18" fill="#94a3b8"/>
+  <circle cx="450" cy="275" r="45" fill="#dbeafe"/>
+  <text x="450" y="465" text-anchor="middle" fill="#334155" font-family="Arial, sans-serif" font-size="32">TechStore</text>
+</svg>
