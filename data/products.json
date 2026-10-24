@@ -66,6 +66,17 @@
     "availability": "In stock"
   },
   {
+    "id": "headphones-003",
+    "name": "Apple Headphone",
+    "category": "Headphones",
+    "brand": "Apple",
+    "price": 156,
+    "description": "Apple's signature headphones with a sleek design and balanced sound for everyday listening.",
+    "image": "https://images.unsplash.com/photo-1546435770-a3e426bf472b?auto=format&fit=crop&w=900&q=80",
+    "specifications": { "Connectivity": "Bluetooth 5.2", "Noise cancellation": "No", "Battery life": "24 hours", "Compatibility": "Bluetooth devices" },
+    "availability": "Low stock"
+  },
+  {
     "id": "mouse-001",
     "name": "Glide Bluetooth Mouse",
     "category": "Computer Mice",
